@@ -1,5 +1,5 @@
 
-  # Web Page with Timelines
+  # VIVA
 
   This is a code bundle for Web Page with Timelines. The original project is available at https://www.figma.com/design/VpbgeNWsVXxaKNt7NL1ygM/Web-Page-with-Timelines.
 
